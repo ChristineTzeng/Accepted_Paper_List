@@ -21,7 +21,7 @@ https://aaai.org/aaai-publications/aaai-conference-proceedings/
 ---
 
 AAMAS
-https://www.ifaamas.org/proceedings.html
+https://dl.acm.org/conference/aamas/proceedings
 
 
 
