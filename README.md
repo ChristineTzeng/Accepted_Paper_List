@@ -5,6 +5,8 @@
 | IJCAI  | January  |
 | AAAI  | August  |
 | AAMAS  | October  |
+| COGSCI  | February  |
+| CHI  | September  |
 
 ---
 
